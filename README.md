@@ -17,17 +17,16 @@ This project introduces a **visual analytics approach** to analyzing the scripts
 This framework is not limited to *Friends*—it can be extended to analyze other television series, movies, or narrative-driven media, offering fresh perspectives on storytelling and character development.
 
 ## Repository Contents
-- **/data:** Contains cleaned datasets (transcripts, sentiment labels, and metadata).
-- **/code:** Includes Python scripts and Jupyter notebooks for sentiment analysis, network visualization, and temporal trend mapping.
-- **/figures:** High-resolution visualizations (network graphs, heatmaps, spider web charts, etc.).
+- **/Data:** Contains cleaned datasets (transcripts, sentiment labels, and metadata).
+- **/Notebooks:** Includes Python scripts and Jupyter notebooks for sentiment analysis, network visualization, and temporal trend mapping.
+- **/Results:** High-resolution visualizations (network graphs, heatmaps, spider web charts, etc.).
 - **/docs:** Project paper and additional documentation.
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/Friends-Visual-Analytics.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the scripts:
-   - Sentiment Analysis: `notebooks/Friends.py`
-   - 
+   -  Analysis: `/Notebooks/Friends_analysis.py`
 4. Explore the visualizations in `/results` and insights in the project paper.
 
 ## Example Visualizations
