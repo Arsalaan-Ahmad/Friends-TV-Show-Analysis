@@ -41,7 +41,7 @@ This framework is not limited to *Friends*—it can be extended to analyze other
 - Apply the framework to other TV series or narrative-driven datasets.
 
 ## References
-- [Full Project Paper](/Doc/VA_project_personal.pdf)
+- [Full Project Paper](Doc/VA project personal.pdf)
 - [Dataset Source](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset)
 
 ---
