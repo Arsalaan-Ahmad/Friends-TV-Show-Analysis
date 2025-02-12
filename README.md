@@ -34,6 +34,17 @@ This framework is not limited to *Friends*—it can be extended to analyze other
 - **Sentiment Line Graph:** Track emotional highs and lows across episodes.
 - **Heatmap of IMDb Ratings and Viewership:** Analyze audience engagement trends.
 
+## Results Overview
+
+### Emotion Distribution
+![Emotion Distribution](Results/scene_emotion_analysis_2.png)
+
+### Character Analysis
+![Character Analysis](Results/character_spider_web_graph.png)
+
+### Character relation
+![relation analysis](Results/sentiment_graph_1.png)
+
 ## Future Work
 - Extend sentiment analysis to all 10 seasons using advanced NLP models (e.g., BERT).
 - Develop interactive dashboards for exploring character-specific subplots.
