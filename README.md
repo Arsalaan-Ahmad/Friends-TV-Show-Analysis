@@ -42,7 +42,7 @@ This framework is not limited to *Friends*—it can be extended to analyze other
 
 ## References
 - [Full Project Paper](/docs/VA_project_personal.pdf)
-- [Dataset Source]([https://www.kaggle.com/datasets/...](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset))
+- [Dataset Source](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset)
 
 ---
 
