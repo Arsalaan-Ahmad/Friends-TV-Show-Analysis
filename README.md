@@ -26,9 +26,9 @@ This framework is not limited to *Friends*—it can be extended to analyze other
 1. Clone the repository: `git clone https://github.com/your-username/Friends-Visual-Analytics.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the scripts:
-   - Sentiment Analysis: `python code/sentiment_analysis.py`
-   - Network Visualization: `jupyter notebook code/network_graphs.ipynb`
-4. Explore the visualizations in `/figures` and insights in the project paper.
+   - Sentiment Analysis: `notebooks/Friends.py`
+   - 
+4. Explore the visualizations in `/results` and insights in the project paper.
 
 ## Example Visualizations
 - **Network Graph of Character Interactions:** Visualize relationships and sentiment intensity between characters.
