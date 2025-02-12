@@ -47,7 +47,3 @@ This framework is not limited to *Friends*—it can be extended to analyze other
 ## References
 - [Full Project Paper](/docs/VA_project_paper.pdf)
 - [Dataset Source](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset)
-
----
-
-This description is concise, engaging, and highlights the key aspects of your project. It also provides clear instructions for reproducing the analysis and exploring the results. You can further enhance it by adding badges (e.g., for Python version, license, etc.) and embedding interactive visualizations if available.
