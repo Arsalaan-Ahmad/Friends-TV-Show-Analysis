@@ -1,3 +1,7 @@
+Here’s a polished GitHub repository description for your project based on the provided text:
+
+---
+
 # Visual Analytics of Character Dynamics and Sentiment Evolution in *Friends*
 
 This project introduces a **visual analytics approach** to analyzing the scripts of the iconic TV series *Friends*. By leveraging transcript data and advanced visualization techniques, the research uncovers hidden insights into character personas, emotional trajectories, and relational dynamics. 
@@ -41,7 +45,7 @@ This framework is not limited to *Friends*—it can be extended to analyze other
 - Apply the framework to other TV series or narrative-driven datasets.
 
 ## References
-- [Full Project Paper](Doc/VA project personal.pdf)
+- [Full Project Paper](/docs/VA_project_paper.pdf)
 - [Dataset Source](https://www.kaggle.com/datasets/lucasyukioimafuko/friends-r-package-dataset)
 
 ---
